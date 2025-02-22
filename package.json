@@ -1,0 +1,15 @@
+{
+  "name": "web-game-xuan",
+  "version": "1.0.0",
+  "description": "一个优雅而现代的网页游戏合集平台",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiaoxuan654/web-game-xuan.git"
+  },
+  "author": "xiaoxuan654",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xiaoxuan654/web-game-xuan/issues"
+  },
+  "homepage": "https://github.com/xiaoxuan654/web-game-xuan#readme"
+}
