@@ -1,15 +1,28 @@
-# Web Game Collection 网页游戏集合
+<p align="center">
+  <img src="./assets/previews/logo.png" alt="Web Game Collection" width="200"/>
+</p>
 
-![Gaming Preview](./assets/previews/preview.png)
+<div align="center">
 
-一个优雅而现代的网页游戏合集平台，提供流畅的游戏体验和精致的视觉效果。
+# Web Game Collection
 
-## 🔗 项目链接
+🎮 一个优雅而现代的网页游戏合集平台 | A Modern Web Game Collection Platform
 
-- GitHub: [web-game-xuan](https://github.com/xiaoxuan654/web-game-xuan)
-- 在线预览: [Live Demo](https://xiaoxuan654.github.io/web-game-xuan)
+[![GitHub stars](https://img.shields.io/github/stars/xiaoxuan654/web-game-xuan)](https://github.com/xiaoxuan654/web-game-xuan/stargazers)
+[![GitHub license](https://img.shields.io/github/license/xiaoxuan654/web-game-xuan)](https://github.com/xiaoxuan654/web-game-xuan/blob/main/LICENSE)
+[![GitHub issues](https://img.shields.io/github/issues/xiaoxuan654/web-game-xuan)](https://github.com/xiaoxuan654/web-game-xuan/issues)
+[![GitHub forks](https://img.shields.io/github/forks/xiaoxuan654/web-game-xuan)](https://github.com/xiaoxuan654/web-game-xuan/network)
+[![GitHub release](https://img.shields.io/github/v/release/xiaoxuan654/web-game-xuan)](https://github.com/xiaoxuan654/web-game-xuan/releases)
 
-## ✨ 特性
+[在线预览](https://xiaoxuan654.github.io/web-game-xuan) | [English](./README_EN.md) | [反馈问题](https://github.com/xiaoxuan654/web-game-xuan/issues)
+
+</div>
+
+## 📖 简介
+
+Web Game Collection 是一个使用纯原生技术栈开发的现代化游戏集合平台，提供流畅的游戏体验和精致的视觉效果。支持多主题切换、响应式布局、触控优化等特性。
+
+## 🚀 特性
 
 - 🎮 优雅的游戏卡片展示
 - 🌓 明暗主题切换
@@ -20,18 +33,33 @@
 - 💫 精美的视觉效果
 - 🔒 可靠的错误处理
 
-## 🚀 技术栈
+## 📦 安装
 
-- 原生 JavaScript (ES6+)
-- CSS3 高级特性
-- HTML5 Canvas
-- 响应式设计
-- 渐进式增强
+```bash
+# 克隆项目
+git clone https://github.com/xiaoxuan654/web-game-xuan.git
+
+# 进入项目目录
+cd web-game-xuan
+
+# 启动开发服务器
+python -m http.server 8080
+# 或
+npx http-server
+```
+
+## 🎮 使用方法
+
+访问 `http://localhost:8080` 即可开始体验：
+
+1. 点击游戏卡片进入对应游戏
+2. 使用主题切换按钮更改外观
+3. 支持触控和键盘操作
 
 ## 📦 项目结构
 
 ```
-web-game2/
+web-game-xuan/
 ├── assets/
 │   └── previews/         # 游戏预览图
 │       ├── game1/
@@ -47,7 +75,7 @@ web-game2/
 └── index.html          # 入口文件
 ```
 
-## 🛠️ 开发指南
+## 🔧 开发指南
 
 ### 环境要求
 
@@ -113,20 +141,23 @@ npx http-server
 }
 ```
 
+## 🤝 贡献
 
-## 🤝 贡献指南
+非常欢迎你的加入！[提一个 Issue](https://github.com/xiaoxuan654/web-game-xuan/issues/new) 或者提交一个 Pull Request。
 
-1. Fork 项目
-2. 创建您的特性分支 (`git checkout -b feature/AmazingFeature`)
-3. 提交您的改动 (`git commit -m 'Add some AmazingFeature'`)
-4. 推送到分支 (`git push origin feature/AmazingFeature`)
-5. 打开一个 Pull Request
+## 🌟 Star 历史
 
-## 📄 许可证
+[![Star History Chart](https://api.star-history.com/svg?repos=xiaoxuan654/web-game-xuan&type=Date)](https://star-history.com/#xiaoxuan654/web-game-xuan&Date)
 
-MIT License © [xiaoxuan654](https://github.com/xiaoxuan654)
+## 📄 开源协议
 
-## 🙏 感谢
+该项目签署了 MIT 授权许可，详情请参阅 [LICENSE](LICENSE)
 
-- [Font Awesome](https://fontawesome.com/) - 图标支持
-- [Playfair Display](https://fonts.google.com/specimen/Playfair+Display) - 字体支持
+## 👏 鸣谢
+
+- [Font Awesome](https://fontawesome.com/)
+- [Playfair Display](https://fonts.google.com/specimen/Playfair+Display)
+
+---
+
+> GitHub [@xiaoxuan654](https://github.com/xiaoxuan654) · Telegram [@xiaoxuan_654](https://t.me/xiaoxuan_654)
