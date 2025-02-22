@@ -58,8 +58,8 @@ web-game2/
 
 1. 克隆仓库
 ```bash
-git clone https://github.com/yourusername/web-game2.git
-cd web-game2
+git clone https://github.com/xiaoxuan654/web-game-xuan.git
+cd web-game-xuan
 ```
 
 2. 启动本地服务器
@@ -113,13 +113,6 @@ npx http-server
 }
 ```
 
-## 📝 待办事项
-
-- [ ] 添加更多游戏
-- [ ] 实现游戏存档功能
-- [ ] 添加用户系统
-- [ ] 优化加载性能
-- [ ] 添加游戏分类
 
 ## 🤝 贡献指南
 
