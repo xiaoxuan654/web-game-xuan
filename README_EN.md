@@ -14,7 +14,7 @@
 [![GitHub forks](https://img.shields.io/github/forks/xiaoxuan654/web-game-xuan)](https://github.com/xiaoxuan654/web-game-xuan/network)
 [![GitHub release](https://img.shields.io/github/v/release/xiaoxuan654/web-game-xuan)](https://github.com/xiaoxuan654/web-game-xuan/releases)
 
-[Live Demo](https://xiaoxuan654.github.io/web-game-xuan) | [中文](./README.md) | [Report Issue](https://github.com/xiaoxuan654/web-game-xuan/issues)
+[Live Demo](https://game.xiaoxuan654.top/) | [中文](./README.md) | [Report Issue](https://github.com/xiaoxuan654/web-game-xuan/issues)
 
 </div>
 
