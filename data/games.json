@@ -2,17 +2,9 @@
   "games": [
     {
       "id": "game1",
-      "name": "优雅弹球",
-      "description": "一个充满美感的弹球游戏体验",
-      "path": "/data/games/game1/index.html",
-      "preview": "./assets/previews/game1/cover.jpg",
-      "backgroundColor": "#F7F2ED"
-    },
-    {
-      "id": "game2",
       "name": "仙途",
       "description": "在这里开启你的修仙之路",
-      "path": "data/games/game1_0/index.html",
+      "path": "data/games/xiantu-naixuan/index.html",
       "preview": "assets/previews/default-avatar.png",
       "backgroundColor": "#F2EDE9"
     }
